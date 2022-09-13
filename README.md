@@ -58,7 +58,7 @@ Here will be the images and descriptions. Principal content.
  
 ## Authors
  
-* **YOUR NAME**: @TAIZE_BUENO_MOREIRA (https://github.com/YOUR_GITHUB_NICKNAME)
+* **YOUR NAME**: @TAIZE_BUENO_MOREIRA (https://github.com/taizemoreira)
  
  
 Please follow github and join us!
