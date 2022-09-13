@@ -56,10 +56,9 @@ Here will be the images and descriptions. Principal content.
 1.0.0.0
  
  
-## Authors
+## Autoria:
  
-* **YOUR NAME**: @TAIZE_BUENO_MOREIRA (https://github.com/taizemoreira)
+* **Taize Moreira - Senac - 2022**: @TAIZE_BUENO_MOREIRA (https://github.com/taizemoreira)
  
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+
