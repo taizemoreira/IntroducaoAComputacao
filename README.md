@@ -1,4 +1,4 @@
-![Logo of the project](http://logo_link](https://github.com/taizemoreira/IntroducaoAComputacao/blob/main/LogoTaize.png)
+![Logo of the project](https://github.com/taizemoreira/IntroducaoAComputacao/blob/main/LogoTaize.png)
  
 ## Introdução a Computação e Linguagem de Programação
  
